@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725267632354",
+    "project_id": "myloginapp-70432",
+    "storage_bucket": "myloginapp-70432.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725267632354:android:b4c7f467ef104f9cbfcebb",
+        "android_client_info": {
+          "package_name": "com.example.signspeak"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZiL6zC-wZXsFvEmEbpBAGFJoQySa6tVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
